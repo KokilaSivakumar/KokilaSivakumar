@@ -10,10 +10,10 @@
 -	📊 I'm looking for help inJAVA,PowerBi,Data Science,ML.
 -	✍️ Checkout my blogs at https://optimisticlearners20.wixsite.com/optimisticlearner
 -	💎 ISP23- Intenshala Student Partner
-- 😄 Pronouns: she /Her
+- 😄 Pronouns: She/Her 
 - ⚡ Fun fact: My Hobbies = Books + Tea + Music + Rain + Movies 
 - 📍 | Salem | Tamil Nadu | India
--->
+
 
 
 <!--
