@@ -11,7 +11,7 @@
 -	✍️ Checkout my blogs at https://optimisticlearners20.wixsite.com/optimisticlearner
 -	💎 ISP23- Intenshala Student Partner
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: My Hobbies = Books + Tea + Music + Rain + Movies 
+- ⚡ Fun fact: Learning never stops,until I'm Satisfied with it :) !
 - 📍 | Salem | Tamil Nadu | India
 
 <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff"> <img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=fff">
