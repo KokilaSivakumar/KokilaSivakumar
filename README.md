@@ -2,7 +2,7 @@
 -	👩🏼‍🎓 Final Year Student of CSE (Dept.)
 -	🏫 Knowledge Institute Of Technology
 -	📢 Community Enthusiast
-- 🔭 I’m currently on my Placement Preparation
+- 🔭 I’m currently offered as a Trainee in ZUCI SYSTEMS - Powered by Passion
 - 🌱 I’m currently learning JAVA,Data Science,Data Analytics,PowerBi
 - 💬 Ask me about free resources and tech events
 - 📫 How to reach me:skokila001231@gmail.com & 2k18cse046@kiot.ac.in
