@@ -1,6 +1,7 @@
 ### Hi there 👋
 -	👩‍💻 Business Intelligence Analyst 
 -	🏢 Zuci Systems (Currently Working)- Chennai
+-	👩‍💼 As a intern - 8 months & As a Fulltime Employee - 1 year 
 -	👩🏼‍🎓 B.E Graduated!
 - 🔭 I’m currently focusing on building my personal portfolio
 - 🌱 I’m currently learning Data Science,Data Analytics,BI skills
