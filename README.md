@@ -13,21 +13,25 @@
 - ⚡ Fun fact: Learning never stops,until I'm Satisfied with it :) !
 - 📍 | Salem | Tamil Nadu | India
 
-<img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff"> <img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=fff">
-<img src="https://img.shields.io/badge/-JAVA-007396?logo=java&logoColor=fff"> <img src="https://img.shields.io/badge/-CANVA-00C4CC?logo=canva&logoColor=fff">
-<img src="https://img.shields.io/badge/-WIX-000000?logo=wix&logoColor=fff"> <img src="https://img.shields.io/badge/-MICROSOFT%20WORD-2B579A?logo=microsoft%20word&logoColor=fff">
-<img src="https://img.shields.io/badge/-DATACAMP-03EF62?logo=datacamp&logoColor=fff"> <img src="https://img.shields.io/badge/-UDEMY-EC5252?logo=udemy&logoColor=fff">
-<img src="https://img.shields.io/badge/-GOOGLE%20COLAB-F9AB00?logo=google%20colab&logoColor=fff"> <img src="https://img.shields.io/badge/-NUMPY-013243?logo=numpy&logoColor=fff">
-<img src="https://img.shields.io/badge/-PANDAS-150458?logo=pandas&logoColor=fff">
-<img src="https://img.shields.io/badge/-PANDAS-150458?logo=pandas&logoColor=fff">
-<img src="https://img.shields.io/badge/Power%20BI-Dev-brightgreen"](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white>
-<img src="https://img.shields.io/badge/Tableau-Desktop-blue](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
-<img src="https://img.shields.io/badge/MS%20Excel-ETL-brightgreen](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-<img src="https://img.shields.io/badge/MS%20Powerpoint-presentations-red](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-wireframing-blueviolet](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Sharepoint-Collaborate-9cf](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white">
-<img src="https://img.shields.io/badge/MS%20Azure-Portal-9cf">
-<img src="[https://img.shields.io/badge/Postman-API-orange](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)">
+<img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+<img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white">
+<img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F">
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KokilaSivakumar&count_private=true&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KOKILASIVAKUMAR&show_icons=true&theme=radical)
