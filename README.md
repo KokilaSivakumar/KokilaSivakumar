@@ -1,18 +1,16 @@
 ### Hi there 👋
--	👩🏼‍🎓 Final Year Student of CSE (Dept.)
--	🏫 Knowledge Institute Of Technology
--	📢 Community Enthusiast
-- 🔭 I’m currently offered as a Trainee in ZUCI SYSTEMS - Powered by Passion
-- 🌱 I’m currently learning JAVA,Data Science,Data Analytics,PowerBi
-- 💬 Ask me about free resources and tech events
+-	👩‍💻 Business Intelligence Analyst 
+-	🏢 Zuci Systems (Currently Working)- Chennai
+-	👩🏼‍🎓 B.E Graduated!
+- 🔭 I’m currently focusing on building my personal portfolio
+- 🌱 I’m currently learning Data Science,Data Analytics,BI skills
+- 💬 Ask me about free resources,Power BI,Tableau,Excel
 - 📫 How to reach me:skokila001231@gmail.com & 2k18cse046@kiot.ac.in
 -	💙 LinkedIn URL: www.linkedin.com/in/kokila-sivakumar-8986a31b7
--	📊 I'm looking for help inJAVA,PowerBi,Data Science,ML.
--	✍️ Checkout my blogs at https://optimisticlearners20.wixsite.com/optimisticlearner
+-	📊 I'd love to work with "DATA"
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: Learning never stops,until I'm Satisfied with it :) !
 - 📍 | Salem | Tamil Nadu | India
-
 <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff"> <img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=fff">
 <img src="https://img.shields.io/badge/-JAVA-007396?logo=java&logoColor=fff"> <img src="https://img.shields.io/badge/-CANVA-00C4CC?logo=canva&logoColor=fff">
 <img src="https://img.shields.io/badge/-WIX-000000?logo=wix&logoColor=fff"> <img src="https://img.shields.io/badge/-MICROSOFT%20WORD-2B579A?logo=microsoft%20word&logoColor=fff">
