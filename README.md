@@ -1,5 +1,5 @@
 ### Hi there 👋
--	👩‍💻 Business Intelligence Analyst 
+-	👩‍💻 Business Intelligence Analyst  <img align="right" alt="GIF" height="400px" src="https://miro.medium.com/v2/resize:fit:1400/1*e4HBnH84BpwLCFr78xvfjg.gif" />
 -	🏢 Zuci Systems (Currently Working)- Chennai
 -	👩‍💼 As an intern - 8 months & As a Fulltime Employee - 1 year 
 -	👩🏼‍🎓 B.E 2018 - 2022
