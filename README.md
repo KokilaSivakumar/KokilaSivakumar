@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Figma-wireframing-blueviolet](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Sharepoint-Collaborate-9cf](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white">
 <img src="https://img.shields.io/badge/MS%20Azure-Portal-9cf">
-<img src="https://img.shields.io/badge/Postman-API-orange](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+<img src="[https://img.shields.io/badge/Postman-API-orange](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KokilaSivakumar&count_private=true&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KOKILASIVAKUMAR&show_icons=true&theme=radical)
