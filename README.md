@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Kokila Sivakumar</h1>
+<h3 align="center">BI-Analyst</h3>
+
 -	👩‍💻 Business Intelligence Analyst  <img align="right" alt="GIF" height="200px" src="https://miro.medium.com/v2/resize:fit:1400/1*e4HBnH84BpwLCFr78xvfjg.gif" />
 -	🏢 Zuci Systems (Currently Working)- Chennai
 -	👩‍💼 As an intern - 8 months & As a Fulltime Employee - 1 year 
@@ -10,7 +12,7 @@
 -	💙 LinkedIn URL: www.linkedin.com/in/kokila-sivakumar-8986a31b7
 -	📊 I'd love to work with "DATA"
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: Learning never stops,until I'm Satisfied with it :) !
+- ⚡ Fun fact: Learning never stops, until I'm Satisfied with it :) !
 - 📍 | Salem | Tamil Nadu | India
 
 <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -32,6 +34,6 @@
 <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KokilaSivakumar&count_private=true&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KOKILASIVAKUMAR&show_icons=true&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KokilaSivakumar&show_icons=true&theme=radical" alt="KokilaSivakumar" /></p>
